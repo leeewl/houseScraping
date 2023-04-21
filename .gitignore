@@ -1,0 +1,6 @@
+# Virtual environment
+venv
+
+house_data.json
+.idea/
+
